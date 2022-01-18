@@ -1,0 +1,105 @@
+.bao_dong{
+    display: flex;
+   }
+    #thong_tin {
+      width: 230px;
+     height: 80px;
+     margin-left: 250px;
+   }
+   .phan_hoi{
+     display: flex;
+    justify-content: space-between;
+   }
+   .gia_san_pham{
+     display: flex;
+     justify-content: center;
+    justify-content: space-around;
+     background-color:#e5e5e5;
+     width: 500px;
+   }
+   .ma_giam_cua_shop{
+     width: 300px;
+       display: flex;
+    justify-content: space-between;
+   }
+   .van_chuyen{
+     width: 3000px;
+     display: flex;
+   }
+   .phan_loai{
+     display: flex;
+   }
+   .so_luong{
+     display: flex;
+   }
+   #huyen{
+     margin-left: 10px;
+   }
+   #huyen{
+     margin-top:15px;
+     margin-right: 10px;
+      }
+   #van_chuyen_di{
+      margin-right: 10px;
+   }
+   #sieu_van_chuyen{
+     margin-top:15px;
+   }
+   .phan_loai{
+     width: 3000px;
+   }
+   #phan{
+     margin-right: 10px;
+     color:#999999;
+   }
+   #TC{
+     margin-top:15px;
+   }
+   .so_luong{
+     width: 3000px;
+   }
+   #sluong{
+     margin-right:10px;
+     color:#999999;
+   }
+   .input-qty{
+     height: 20px;
+     width: 50px;
+     margin-top:15px;
+   }
+   #giam{
+     
+   border-radius: 26px/35px;
+     background-color: red;
+   }
+   .hop_chon{
+     width: 3000px;
+   }
+   #them_gio{
+       padding: 20px 60px;
+       background-color: #ff7f00;
+        color:#ffffff;
+      border-radius:2%/6%;
+   }
+   #mua_ngay{
+     padding: 20px 80px;
+     background-color: red;
+     color:#ffffff;
+      border-radius:2%/6%;
+     margin-left:20px;
+   }
+   #MA{
+     color:#999999;
+   }
+   #VAN{
+     color:#999999;
+   }
+   #PI{
+     color:#999999;
+   }
+   #name{
+       font-size:30px;
+   }
+   #logo{
+     margin-left:20px;
+   }
